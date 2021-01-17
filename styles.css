@@ -1,11 +1,16 @@
 body {
     padding: 2em;
     margin: 0;
-    font-family: Lato;
+    font-family: 'Crimson-Text';
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+h1 {
+    font-family: 'Crimson-Text';
+    font-weight: 400;
 }
 
 #wrapper {
