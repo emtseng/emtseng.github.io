@@ -1,0 +1,53 @@
+- title: "A Digital Safety Dilemma: Analysis of Computer-Mediated Computer Security Interventions for Intimate Partner Violence During COVID-19"
+  authors: "<b>Emily Tseng</b>, Diana Freed, Kristen Engel, Thomas Ristenpart, and Nicola Dell."
+  venue: ACM CHI 2021, to appear.
+  desc: "The pandemic has worsened conditions for victims of IPV, many of whom may be forced to shelter in place with their abusers. We analyzed 24 consults with victims and held 5 focus groups with consultants to understand the new challenges brought on by shifting clinical computer security work to a remote work context."
+  pdf: "Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf"
+- title: "So-called privacy breeds evil: Narrative Justifications for Intimate Partner Surveillance in Online Forums."
+  authors: Rosanna Bellini, <b>Emily Tseng</b>, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Thomas Ristenpart, and Nicola Dell.
+  venue: CSCW 2021
+  desc: Our grounded theory analysis of social media data revealed how would-be abusers create narrative justifications for spying on their partners.
+  pdf: "Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf"
+  award: Best Paper Award
+- title: "The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums"
+  authors: <b>Emily Tseng</b>, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell, and Thomas Ristenpart.
+  pdf: Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf
+  venue: 29th USENIX Security Symposium (USENIX Security 2020). (Acceptance rate 13%).
+  desc: Would-be abusers often learn how to enact intimate partner surveillance through online forums. Our thematic analysis reveals a taxonomy of tools and tactics propagated through these social spaces.
+  online: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
+  video: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
+  award: Distinguished Paper Award. Internet Defense Prize, 3rd place.
+- title: "Experiences of Home Health Care Workers during COVID-19 in New York City: A Qualitative Analysis"
+  authors: Sterling, MR, <b>Tseng, E</b>, Poon, A, Cho, J, Avgar, AC, Kern, LM, Ankuda, CK, Dell, N.
+  pdf: Sterling-2020_JAMAIM_Home-Care-Workers-NYC-COVID.pdf
+  online: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2769096
+  venue: JAMA Internal Medicine
+  desc: We interviewed home health aides caring for patients in New York City when the COVID-19 pandemic peaked in the spring of 2020.
+- title: "Home Care Workers Caring for Adults with Heart Failure Need Better Access to Training and Technology: A Role for Implementation Science."
+  authors: Sterling, MR, Dell, N, <b>Tseng, E</b>, Okeke, F, Cho, J, Piantella, B, Tobin, JN.
+  online: https://doi.org/10.1017/cts.2020.36
+  pdf: Sterling-2020_JClinTrans_Home-Care-Workers-Implementation-Science.pdf
+  venue: Journal of Clinical and Translation Science
+- title: "Understanding the Workflow of Home Healthcare for Patients with Heart Failure: Challenges and Opportunities."
+  authors: Sterling, M. R., Dell, N., Piantella, B., Cho, J., Kaur, H., <b>Tseng, E.</b>, Okeke, F., Brown, M., Leung, P. B. K., Silva, A. F., Shaw, A. L., Kern, L. M.
+  pdf: Sterling-2020-JGIM_Understanding-the-Workflow-of-Home-Health-Care.pdf
+  venue: Journal of General Internal Medicine
+  online: https://link.springer.com/article/10.1007/s11606-020-05675-8
+- title: "We can learn. Why not?: Designing Technologies to Engender Equity for Home Health Aides."
+  authors: <b>Emily Tseng</b>, Fabian Okeke, Madeline Sterling, and Nicola Dell
+  pdf: Tseng-2020-CHI_Designing-to-Engender-Equity-for-Home-Health-Aides.pdf
+  online: https://dl.acm.org/doi/abs/10.1145/3313831.3376633
+  venue: ACM Conference on Human Factors in Computing Systems (CHI 2020). (Acceptance rate 24.3%).
+- title: "Is my phone hacked?: Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence."
+  authors: Diana Freed*, Sam Havron*, <b>Emily Tseng</b>, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell.
+  venue: CSCW 2019
+  award: Best Paper Honorable Mention
+  pdf: Freed-2019-CSCW_Is-my-phone-hacked.pdf
+  online: https://dl.acm.org/doi/abs/10.1145/3359304
+- title: "Technology, Home Health Care, and Heart Failure: A Qualitative Analysis with Multiple Stakeholders."
+  authors: Fabian Okeke, <b>Emily Tseng</b>, Benedetta Piantella, Mikaela Brown, Harveen Kaur, Madeline R. Sterling, and Nicola Dell.
+  pdf: Okeke-2019_COMPASS_Technology-Home-Health-Care.pdf
+  venue: ACM COMPASS 2019
+  online: https://dl.acm.org/doi/10.1145/3314344.3332487
+
+
