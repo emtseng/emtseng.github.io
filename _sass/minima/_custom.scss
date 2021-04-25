@@ -103,6 +103,27 @@ body {
   margin-bottom: 0.5em;
 }
 
+// News section stylings
+
+#news {
+  margin: 1em 0;
+}
+
+.news-item {
+  display: inline-flex;
+  flex-direction: row;
+  width: 100%;
+  margin-bottom: 0.25em;
+}
+
+.news-time {
+  width: 20%;
+}
+
+.news-txt {
+  width: 80%;
+}
+
 /* Responsive */
 @media screen and (max-width: 600px) {
   #header {

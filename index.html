@@ -3,38 +3,64 @@ layout: home
 ---
 
 <div id="quadrant-wrapper">
-<div class="quadrant" id="about-text">
-  <p>
-    Hi there!
-  </p>
-  <p>I'm currently a Ph.D. student in <a href="https://infosci.cornell.edu/">Information Science at Cornell University</a>, based
-    in NYC at Cornell Tech. I'm advised primarily by <a href="https://www.nixdell.com/">Nicola Dell</a> and <a
-      href="https://destrin.tech.cornell.edu/">Deborah Estrin</a>.
-  </p>
-  <p>
-    I design and build sociotechnical systems that help us care for each other. Lately I've been working on large-scale
-    computational analysis of the language of online therapy; justice-oriented design of caregiving systems in home
-    health; and computer security for victims and survivors of intimate partner violence. More fundamentally, I'm
-    interested in mitigating the harms caused by technocratic largesse through feminist approaches to the design and
-    development of computing systems.
-  </p>
-  <p>
-    I earned a B.A. from Princeton University in Ecology and Evolutionary Biology, focusing on epidemiological modeling for global health. I also earned an M.S. from Cornell Tech in Health Tech. In previous lives I made radio,
-    print
-    and multimedia journalism and ran early-stage product
-    development at a consumer health tech startup. I've also worked as a healthcare consultant in the U.S. and taught
-    software
-    engineering.
-  </p>
-  <p>
-    <br />
-    <b>contact me</b>
-    <br /><br />
-    Email is best. You can reach me at et397 at cornell dot edu. I also <a href="https://twitter.com/emtseng">tweet</a>
-    sometimes.
-  </p>
-</div>
-<div class="quadrant" id="about-photo">
-  <img id="profile-photo" src="./assets/profile-18.jpg" alt="Emily in a leather jacket, smiling" />
-</div>
+  <div class="quadrant" id="about-text">
+    <p>
+      Hi there!
+    </p>
+    <p>I'm currently a Ph.D. student in <a href="https://infosci.cornell.edu/">Information Science at Cornell
+        University</a>, based
+      in NYC at Cornell Tech. I'm advised primarily by <a href="https://www.nixdell.com/">Nicola Dell</a> and <a
+        href="https://destrin.tech.cornell.edu/">Deborah Estrin</a>.
+    </p>
+    <p>
+      I design and build sociotechnical systems that help us care for each other. Lately I've been working on
+      large-scale
+      computational analysis of the language of online therapy; justice-oriented design of caregiving systems in home
+      health; and computer security for victims and survivors of intimate partner violence. More fundamentally, I'm
+      interested in mitigating the harms caused by technocratic largesse through feminist approaches to the design and
+      development of computing systems.
+    </p>
+    <p>
+      I earned a B.A. from Princeton University in Ecology and Evolutionary Biology, focusing on epidemiological
+      modeling for global health. I also earned an M.S. from Cornell Tech in Health Tech. In previous lives I made
+      radio,
+      print
+      and multimedia journalism and ran early-stage product
+      development at a consumer health tech startup. I've also worked as a healthcare consultant in the U.S. and taught
+      software
+      engineering.
+    </p>
+    <!-- <p>
+      <br />
+      <b>contact me</b>
+      <br /><br />
+      Email is best. You can reach me at et397 at cornell dot edu. I also <a
+        href="https://twitter.com/emtseng">tweet</a>
+      sometimes.
+    </p> -->
+  </div>
+  <div class="quadrant" id="about-photo">
+    <img id="profile-photo" src="./assets/profile-18.jpg" alt="Emily in a leather jacket, smiling" />
+    <p>
+      <br />
+      <b>contact me</b>
+      <br /><br />
+      Email is best. You can reach me at et397 at cornell dot edu. I also <a
+        href="https://twitter.com/emtseng">tweet</a>
+      sometimes.
+    </p>
+  </div>
+  <div id="news">
+    <b>news</b>
+    <br><br>
+    {%- if site.data.news -%}
+      {%- for item in site.data.news -%}
+      <div class="news-item">
+        <div class="news-time">{{item.time}}</div>
+        <div class="news-txt">{{item.txt}}</div>
+      </div>
+      {%- endfor -%}
+    {%- endif -%}
+    </ul>
+  </div>
 </div>
