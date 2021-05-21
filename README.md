@@ -4,6 +4,7 @@
 
 ```cli
 jekyll serve --livereload # for development
+jekyll build # for one-time builds
 ```
 
 ## Updates
