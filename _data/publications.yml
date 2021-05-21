@@ -3,12 +3,15 @@
   venue: ACM CHI 2021, to appear.
   desc: "The pandemic has worsened conditions for victims of IPV, many of whom may be forced to shelter in place with their abusers. We analyzed 24 consults with victims and held 5 focus groups with consultants to understand the new challenges brought on by shifting clinical computer security work to a remote work context."
   pdf: "Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf"
+  online: https://dl.acm.org/doi/abs/10.1145/3411764.3445589
+  video: https://www.youtube.com/watch?v=VDNApFCXV4U&ab_channel=ACMSIGCHI
 - title: "So-called privacy breeds evil: Narrative Justifications for Intimate Partner Surveillance in Online Forums."
   authors: Rosanna Bellini, <b>Emily Tseng</b>, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Thomas Ristenpart, and Nicola Dell.
   venue: ACM CSCW 2021.
   desc: Our grounded theory analysis of social media data revealed how would-be abusers create narrative justifications for spying on their partners.
   pdf: "Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf"
   award: Best Paper Award
+  online: https://dl.acm.org/doi/10.1145/3432909
 - title: "The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums"
   authors: <b>Emily Tseng</b>, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell, and Thomas Ristenpart.
   pdf: Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf
