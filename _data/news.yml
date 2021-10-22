@@ -1,12 +1,18 @@
+- time: October 2021
+  txt: Attending virtual CSCW. Organizing <a href="https://subtlecscwtraits.wordpress.com/">Subtle CSCW Traits</a>, a workshop convening social computing researchers with ties to the Asian diaspora, and attending a workshop on the <a href="https://sites.google.com/view/futureofcarework">Future of Care Work</a>.
+- time: October 2021
+  txt: Honored to earn a <a href="https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people">Microsoft Research PhD Fellowship</a>!
+- time: October 2021
+  txt: Spoke at the <a href="https://www.dli.tech.cornell.edu/">Digital Life Initiative</a> at Cornell Tech.
 - time: June 2021
-  txt: TAing for and drawing immense inspiration from the Cornell CIS <a href="https://impact.infosci.cornell.edu/">Summer School for Social Impact</a>.
+  txt: TA'd for the Cornell CIS <a href="https://impact.infosci.cornell.edu/">Summer School for Social Impact</a>.
 - time: May 2021
-  txt: SVed at virtual CHI! Also presented our <a href="assets/Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf" target="_blank">paper</a> on clinical computer security during COVID.
+  txt: SVed at virtual CHI and presented our paper on <a href="assets/Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf" target="_blank">clinical computer security during COVID</a>.
 - time: April 2021
   txt: Attended the CRA-WP Grad Cohort for Women.
 - time: Spring 2021
   txt: TA for Jon Kleinberg & Karen Levy's undergrad tech ethics course, <a href="https://courses.cs.cornell.edu/cs1340/2021sp/" target="_blank">Choices and Consequences in Computing</a>.
-- time: October 2020
-  txt: Our <a href="assets/Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf" target="_blank">paper</a> on narrative justifications for intimate partner surveillance won a <span class="pub-award">Best Paper Award</span> at CSCW 2020! Cheers to first author Rosie Bellini!
-- time: August 2020
-  txt: Presented our <a href="assets/Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf" target="_blank">paper</a> at USENIX Security. We show how intimate partner abusers develop surveillance strategies through online forums. Pleasantly surprised to win a <span class="pub-award">Distinguished Paper Award</span> and <span class="pub-award">third place in the Internet Defense Prize</span>!
+# - time: October 2020
+#   txt: Our <a href="assets/Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf" target="_blank">paper</a> on narrative justifications for intimate partner surveillance won a <span class="pub-award">Best Paper Award</span> at CSCW 2020! Cheers to first author Rosie Bellini!
+# - time: August 2020
+#   txt: Presented our <a href="assets/Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf" target="_blank">paper</a> at USENIX Security. We show how intimate partner abusers develop surveillance strategies through online forums. Pleasantly surprised to win a <span class="pub-award">Distinguished Paper Award</span> and <span class="pub-award">third place in the Internet Defense Prize</span>!
