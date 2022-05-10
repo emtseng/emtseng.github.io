@@ -1,5 +1,7 @@
+- time: Summer 2022
+  txt: Interning at Microsoft Research with Mary L. Gray.
 - time: May 2022
-  txt: Will be at CHI in New Orleans presenting <a href="assets/Tseng-2022-CHI-Care-Infrastructures-Digital-Privacy-IPV.pdf" target="_blank">Care Infrastructures for Digital Security and Privacy in Intimate Partner Violence</a>, which has earned a Best Paper Award!
+  txt: Attended CHI in New Orleans presenting <a href="assets/Tseng-2022-CHI-Care-Infrastructures-Digital-Privacy-IPV.pdf" target="_blank">Care Infrastructures for Digital Security and Privacy in Intimate Partner Violence</a>, which earned a Best Paper Award!
 - time: Spring 2022
   txt: Interning at Microsoft Research with Mary L. Gray.
 - time: October 2021
@@ -10,12 +12,12 @@
   txt: Spoke at the <a href="https://www.dli.tech.cornell.edu/">Digital Life Initiative</a> at Cornell Tech.
 - time: June 2021
   txt: TA'd for the Cornell CIS <a href="https://impact.infosci.cornell.edu/">Summer School for Social Impact</a>.
-- time: May 2021
-  txt: SVed at virtual CHI and presented our paper on <a href="assets/Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf" target="_blank">clinical computer security during COVID</a>.
-- time: April 2021
-  txt: Attended the CRA-WP Grad Cohort for Women.
-- time: Spring 2021
-  txt: TA for Jon Kleinberg & Karen Levy's undergrad tech ethics course, <a href="https://courses.cs.cornell.edu/cs1340/2021sp/" target="_blank">Choices and Consequences in Computing</a>.
+# - time: May 2021
+#   txt: SVed at virtual CHI and presented our paper on <a href="assets/Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf" target="_blank">clinical computer security during COVID</a>.
+# - time: April 2021
+#   txt: Attended the CRA-WP Grad Cohort for Women.
+# - time: Spring 2021
+#   txt: TA for Jon Kleinberg & Karen Levy's undergrad tech ethics course, <a href="https://courses.cs.cornell.edu/cs1340/2021sp/" target="_blank">Choices and Consequences in Computing</a>.
 # - time: October 2020
 #   txt: Our <a href="assets/Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf" target="_blank">paper</a> on narrative justifications for intimate partner surveillance won a <span class="pub-award">Best Paper Award</span> at CSCW 2020! Cheers to first author Rosie Bellini!
 # - time: August 2020
