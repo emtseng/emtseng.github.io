@@ -1,8 +1,15 @@
 - title: Care Infrastructures for Digital Security and Privacy in Intimate Partner Violence
   authors: "<b>Emily Tseng</b>, Mehrnaz Sabet, Rosanna Bellini, Harkiran Kaur Sodhi, Thomas Ristenpart, and Nicola Dell."
-  venue: ACM CHI 2022 (to appear).
+  venue: ACM CHI 2022.
   award: Best Paper Award
   pdf: "Tseng-2022-CHI-Care-Infrastructures-Digital-Privacy-IPV.pdf"
+  online: https://dl.acm.org/doi/10.1145/3491102.3502038
+  video: https://youtu.be/Fbj6qRNWeSY
+- title: "Trauma-Informed Computing: Towards Safer Technology Experiences for All"
+  authors: "Janet X. Chen*, Allison McDonald*, Yixin Zou*, <b>Emily Tseng</b>, Kevin A. Roundy, Acar Tamersoy, Florian Schaub, Thomas Ristenpart, and Nicola Dell."
+  venue: ACM CHI 2022.
+  pdf: https://nixdell.com/papers/chi22-trauma-informed-computing.pdf
+  online: https://dl.acm.org/doi/10.1145/3491102.3517475
 - title: "A Digital Safety Dilemma: Computer-Mediated Computer Security Interventions for Intimate Partner Violence During COVID-19"
   authors: "<b>Emily Tseng</b>, Diana Freed, Kristen Engel, Thomas Ristenpart, and Nicola Dell."
   venue: ACM CHI 2021.
