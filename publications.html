@@ -3,12 +3,12 @@ layout: home
 title: Publications
 ---
 
-<div id="subhead">I do my best to keep this up-to-date. You can also follow my <a href="https://scholar.google.com/citations?hl=en&user=IwgW59wAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</div>
+<div id="subhead">I do my best to keep this up-to-date. You can also follow my <a href="https://scholar.google.com/citations?hl=en&user=IwgW59wAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.<br /><br /> * indicates equal contribution, listed in alphabetical order by last name. <br />As someone whose last name starts with T, I would love for us to change this convention :)</div>
 
 {%- for pub in site.data.publications -%}
   <div class="pub">
     <div class="pub-title">
-      <a href="assets/{{ pub.pdf }}" target="_blank">{{ pub.title }}</a>
+      {%- if pub.pdf -%}<a href="assets/{{ pub.pdf }}" target="_blank">{{ pub.title }}</a>{%- else -%}{{ pub.title }}{%- endif -%}
     </div>
     <div class="pub-authors">{{ pub.authors }}</div>
     <div class="pub-venue">{{ pub.venue }}</div>
