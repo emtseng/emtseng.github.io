@@ -10,8 +10,8 @@
   txt: Honored to earn a <a href="https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people">Microsoft Research PhD Fellowship</a>!
 - time: October 2021
   txt: Spoke at the <a href="https://www.dli.tech.cornell.edu/">Digital Life Initiative</a> at Cornell Tech.
-- time: June 2021
-  txt: TA'd for the Cornell CIS <a href="https://impact.infosci.cornell.edu/">Summer School for Social Impact</a>.
+#- time: June 2021
+#  txt: TA'd for the Cornell CIS <a href="https://impact.infosci.cornell.edu/">Summer School for Social Impact</a>.
 # - time: May 2021
 #   txt: SVed at virtual CHI and presented our paper on <a href="assets/Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf" target="_blank">clinical computer security during COVID</a>.
 # - time: April 2021
