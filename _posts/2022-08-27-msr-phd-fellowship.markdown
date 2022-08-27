@@ -2,7 +2,7 @@
 layout: post
 title:  "Applying to PhD Fellowships"
 date:   2022-08-27 00:00:00 -0000
-categories: jekyll update
+categories: hidden-curriculum
 published: true
 ---
 
