@@ -23,7 +23,7 @@ title: Emily Tseng
 description: >- # this means to ignore newlines until "baseurl:"
   Emily studies computing and technology design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://emtseng.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: emtseng
 github_username:  emtseng
 header_pages:
