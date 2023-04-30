@@ -45,7 +45,7 @@
 - title: "So-called privacy breeds evil: Narrative Justifications for Intimate Partner Surveillance in Online Forums."
   authors: Rosanna Bellini, <b>Emily Tseng</b>, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Thomas Ristenpart, and Nicola Dell.
   venue: ACM CSCW 2021.
-  desc: Our grounded theory analysis of social media data revealed how would-be abusers create narrative justifications for spying on their partners.
+  desc: "We develop a theory of how would-be abusers create narrative justifications for spying on their partners."
   pdf: "Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf"
   award: Best Paper Award
   online: https://dl.acm.org/doi/10.1145/3432909
@@ -53,7 +53,7 @@
   authors: <b>Emily Tseng</b>, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell, and Thomas Ristenpart.
   pdf: Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf
   venue: USENIX Security 2020. (Acceptance rate 13%).
-  desc: Would-be abusers often learn how to enact intimate partner surveillance through online forums. Our thematic analysis reveals a taxonomy of tools and tactics propagated through these social spaces.
+  desc: "Would-be abusers often learn how to enact intimate partner surveillance through online forums. We taxonomize  the tools and tactics propagated through these online communities, and discuss how social media dynamics worsen these attacks."
   online: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
   video: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
   award: Distinguished Paper Award. Internet Defense Prize, 3rd place.
