@@ -1,3 +1,10 @@
+- title: "SoK: Safer Digital-Safety Research Involving At-Risk Users"
+  authors: "Rosanna Bellini, <b>Emily Tseng</b>, Noel Warford, Alaa Daffalla, Tara Matthews, Sunny Consolvo, Jill Woelfer, Patrick Gage Kelley, Michelle Mazurek, Dana Cuomo, Nicola Dell, and Thomas Ristenpart."
+  venue: To appear at IEEE Symposium on Security and Privacy (Oakland).
+- title: "Surfacing Structural Barriers to Community-Collaborative Approaches in Human-Computer Interaction"
+  authors: "Calvin Liang, <b>Emily Tseng</b>, Akeiylah DeWitt, Yasmine Kotturi, Sucheta Ghoshal, Angela D.R. Smith, Marisol Wong-Villacres, Lauren Wilcox, and Sheena Erete."
+  venue: ACM CSCW 2023 Workshops.
+  desc: "Building on our FAccT 2023 CRAFT session, this workshop explores how HCI and CSCW as research fields can better align with the values necessary for community-collaborative work."
 - title: "Association of Healthcare Work with Anxiety and Depression During the COVID-19 Pandemic: A Structural Topic Modeling Study"
   authors: "Matteo Malgaroli, <b>Emily Tseng</b>, Thomas Derrick Hull, Emma Jennings, Tanzeem Choudhury, Naomi Simon"
   venue: In open peer review at JMIR AI.
@@ -32,8 +39,9 @@
   online: https://dl.acm.org/doi/10.1145/3491102.3517475
 - title: "Subtle CSCW Traits: Tensions Around Identity Formation and Online Activism in the Asian Diaspora"
   authors: "Calvin Liang, <b>Emily Tseng</b>, Sachin Pendse, Crystal Lee, Kimberley Allison, Neilly H. Tan, Ruotong Wang, Alexandra To, and Amy Zhang."
-  venue: ACM CSCW 2021.
+  venue: ACM CSCW 2021 Workshops.
   pdf: "Liang-2021-CSCW_Subtle-CSCW-Traits.pdf"
+  desc: "Our workshop convened social computing researchers with ties to the Asian diaspora for a day of community-building around making space for our shared identities in HCI and CSCW."
   online: https://dl.acm.org/doi/abs/10.1145/3462204.3481730
 - title: "A Digital Safety Dilemma: Computer-Mediated Computer Security Interventions for Intimate Partner Violence During COVID-19"
   authors: "<b>Emily Tseng</b>, Diana Freed, Kristen Engel, Thomas Ristenpart, and Nicola Dell."

@@ -18,12 +18,12 @@
   txt: Spoke at the <a href="https://cs.uchicago.edu/events/event/emily-tseng-cornell-tech-understanding-and-mitigating-tech-abuse/">University of Chicago CS People and Technology seminar</a>. Thanks for having me!
 - time: September 2022
   txt: Spoke at the AnitaB.org Grace Hopper Celebration in a session on award-winning research in HCI. Thanks CRA-WP for the invitation!
-- time: July 2022
-  txt: Spoke at the Google Trust and Safety Research Speaker Series. Thanks for having me!
-- time: June 2022
-  txt: Attended the Human-Computer Interaction Consortium in scenic Wisconsin.
-- time: Summer 2022
-  txt: Interning at Microsoft Research with Mary L. Gray.
+# - time: July 2022
+#   txt: Spoke at the Google Trust and Safety Research Speaker Series. Thanks for having me!
+# - time: June 2022
+#   txt: Attended the Human-Computer Interaction Consortium in scenic Wisconsin.
+# - time: Summer 2022
+#   txt: Interning at Microsoft Research with Mary L. Gray.
 #- time: May 2022
 #  txt: Attended CHI in New Orleans presenting <a href="assets/Tseng-2022-CHI-Care-Infrastructures-Digital-Privacy-IPV.pdf" target="_blank">Care Infrastructures for Digital Security and Privacy in Intimate Partner Violence</a>, which earned a Best Paper Award!
 #- time: Spring 2022
