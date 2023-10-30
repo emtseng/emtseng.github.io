@@ -15,7 +15,8 @@
 - title: "Association of Healthcare Work with Anxiety and Depression During the COVID-19 Pandemic: A Structural Topic Modeling Study"
   authors: "Matteo Malgaroli, <b>Emily Tseng</b>, Thomas Derrick Hull, Emma Jennings, Tanzeem Choudhury, Naomi Simon"
   venue: JMIR AI 2023.
-  online: https://preprints.jmir.org/preprint/47223
+  online: https://ai.jmir.org/2023/1/e47223
+  pdf: Malgaroli-2023_JMIR-AI_HCW-COVID-Talkspace.pdf
 - title: "Perceptions of Augmented Reality in Remote Medical Care: Interview Study of Emergency Telemedicine Providers"
   authors: "Alana Dinh, <b>Emily Tseng</b>, Andrew Lukas Yin, Deborah Estrin, Peter Greenwald, Alexander Fortenko"
   venue: JMIR Formative Research 2023.
@@ -109,5 +110,10 @@
   pdf: Okeke-2019_COMPASS_Technology-Home-Health-Care.pdf
   venue: ACM COMPASS 2019.
   online: https://dl.acm.org/doi/10.1145/3314344.3332487
+- title: "A combined rule-based and statistical approach to family history extraction from unstructured text."
+  authors: <b>Emily Tseng</b> and Jacob Lee.
+  pdf: Tseng-Lee-2018-OHNLP.pdf
+  venue: BioCreative/OHNLP Workshop @ ACM BCB 2018
+  online: https://sites.google.com/view/ohnlp2018/home
 
 
