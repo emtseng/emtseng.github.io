@@ -308,6 +308,14 @@ body { font-family: Lato; line-height: normal; }
 
 .pub-links { margin-bottom: 0.5em; }
 
+#pub-table { margin-top: 3em; }
+
+.pub-row { display: inline-flex; flex-direction: row; align-items: top; margin-bottom: 1em; }
+
+.pub-ref { width: 10%; }
+
+.pub-info { width: 100%; }
+
 #news { margin: 1em 0; }
 
 .news-item { display: inline-flex; flex-direction: row; width: 100%; margin-bottom: 0.25em; }

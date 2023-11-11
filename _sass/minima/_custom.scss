@@ -103,6 +103,25 @@ body {
   margin-bottom: 0.5em;
 }
 
+#pub-table {
+  margin-top: 3em;
+}
+
+.pub-row {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: top;
+  margin-bottom: 1em;
+}
+
+.pub-ref {
+  width: 10%
+}
+
+.pub-info {
+  width: 100%
+}
+
 // News section stylings
 
 #news {

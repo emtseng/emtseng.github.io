@@ -3,22 +3,34 @@ layout: home
 title: Publications
 ---
 
-<div id="subhead">I do my best to keep this up-to-date. You can also follow my <a href="https://scholar.google.com/citations?hl=en&user=IwgW59wAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> and <a href="https://www.semanticscholar.org/author/Emily-Tseng/97560872">Semantic Scholar</a>.<br /><br /> * indicates equal contribution, listed in alphabetical order by last name. <br />As someone whose last name starts with T, I would love for us to change this convention :)</div>
+<div id="subhead">I do my best to keep this up-to-date. You can also follow my <a
+    href="https://scholar.google.com/citations?hl=en&user=IwgW59wAAAAJ&view_op=list_works&sortby=pubdate">Google
+    Scholar</a> and <a href="https://www.semanticscholar.org/author/Emily-Tseng/97560872">Semantic
+    Scholar</a>.<br /><br /> * indicates equal contribution, listed in alphabetical order by last name. <br />As someone
+  whose last name starts with T, I would love for us to change this convention :)
+</div>
 
-{%- for pub in site.data.publications -%}
-  <div class="pub">
-    <div class="pub-title">
-      {%- if pub.pdf -%}<a href="assets/{{ pub.pdf }}" target="_blank">{{ pub.title }}</a>{%- else -%}{{ pub.title }}{%- endif -%}
-    </div>
-    <div class="pub-authors">{{ pub.authors }}</div>
-    <div class="pub-venue">{{ pub.venue }}</div>
-    {%- if pub.award -%}<div class="pub-award">{{pub.award}}</div>{%- endif -%}
-    {% if pub.desc -%}<div class="pub-desc">{{ pub.desc }}</div> {%- endif -%}
-    <div class="pub-links">
-      {%- if pub.pdf -%}[ <a href="assets/{{ pub.pdf }}" target="_blank">pdf</a> ]{%- endif -%}
-      {%- if pub.online -%}[ <a href="{{ pub.online }}" target="_blank">online</a> ]{%- endif -%}
-      {%- if pub.pubmed -%}[ <a href="{{ pub.pubmed }}" target="_blank">pubmed</a> ]{%- endif -%}
-      {%- if pub.video -%}[ <a href="{{ pub.video }}" target="_blank">video</a> ]{%- endif -%}
+<div id="pub-table">
+  {%- for pub in site.data.publications -%}
+  <div class="pub-row">
+    <div class="pub-ref">[ {{ forloop.index }} ]</div>
+    <div class="pub-info">
+      <div class="pub-title">
+        {%- if pub.pdf -%}<a href="assets/{{ pub.pdf }}" target="_blank">{{ pub.title }}</a>{%- else -%}{{
+        pub.title
+        }}{%- endif -%}
+      </div>
+      <div class="pub-authors">{{ pub.authors }}</div>
+      <div class="pub-venue">{{ pub.venue }}</div>
+      {%- if pub.award -%}<div class="pub-award">{{pub.award}}</div>{%- endif -%}
+      {% if pub.desc -%}<div class="pub-desc">{{ pub.desc }}</div> {%- endif -%}
+      <div class="pub-links">
+        {%- if pub.pdf -%}[ <a href="assets/{{ pub.pdf }}" target="_blank">pdf</a> ]{%- endif -%}
+        {%- if pub.online -%}[ <a href="{{ pub.online }}" target="_blank">online</a> ]{%- endif -%}
+        {%- if pub.pubmed -%}[ <a href="{{ pub.pubmed }}" target="_blank">pubmed</a> ]{%- endif -%}
+        {%- if pub.video -%}[ <a href="{{ pub.video }}" target="_blank">video</a> ]{%- endif -%}
+      </div>
     </div>
   </div>
-{%- endfor -%}
+  {%- endfor -%}
+</div>
