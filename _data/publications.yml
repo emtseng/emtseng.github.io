@@ -1,12 +1,16 @@
+- year: 2024
 - title: "Data Stewardship in Clinical Computer Security: Balancing Burden and Benefit in Participatory Systems"
   authors: "<b>Emily Tseng</b>, Rosanna Bellini, Yeuk Yu Lee, Alana Ramjit, Thomas Ristenpart, and Nicola Dell."
   venue: To appear at ACM CSCW 2024.
   pdf: "Tseng-2024-CSCW-Data-Stewardship-Digital-Safety_author-version.pdf"
+  label: P1
 - title: "SoK: Safer Digital-Safety Research Involving At-Risk Users"
   authors: "Rosanna Bellini, <b>Emily Tseng</b>, Noel Warford, Alaa Daffalla, Tara Matthews, Sunny Consolvo, Jill Woelfer, Patrick Gage Kelley, Michelle Mazurek, Dana Cuomo, Nicola Dell, and Thomas Ristenpart."
-  venue: To appear at IEEE Symposium on Security and Privacy (Oakland).
+  venue: To appear at IEEE Symposium on Security and Privacy (Oakland) in 2024.
   online: https://arxiv.org/abs/2309.00735
   pdf: "Bellini-2024-Oakland_SoK-Safer-Digital-Safety-Research.pdf"
+  label: P2
+- year: 2023
 - title: "Surfacing Structural Barriers to Community-Collaborative Approaches in Human-Computer Interaction"
   authors: "Calvin Liang, <b>Emily Tseng</b>, Akeiylah DeWitt, Yasmine Kotturi, Sucheta Ghoshal, Angela D.R. Smith, Marisol Wong-Villacres, Lauren Wilcox, and Sheena Erete."
   venue: ACM CSCW 2023 Workshops.
@@ -26,7 +30,7 @@
   online: https://formative.jmir.org/2023/1/e45211
 - title: "Having a Say Matters: The Association Between Home Health Aides' Voice and Job Satisfaction"
   authors: "Bensson-Ravunniarath, M., Bryan Ringel, J., Avgar, A., Wiggins, F., Lee, A., McDonald, M., Guerrero, L.R., Kallas, J., Gusoff, G., Shen, M., <b>Tseng, E.</b>, Dell, N., Czaja, S., Lindquist, L.A., & Sterling, M.R." 
-  venue: Risk Management and Healthcare Policy.
+  venue: Risk Management and Healthcare Policy 2023.
   online: https://doi.org/10.2147/RMHP.S420207
   pdf: "Bensson_2023_RMHP_Having-Say-Matters.pdf"
 - title: "I Go Beyond and Beyond: Examining the Invisible Work of Home Health Aides"
@@ -34,6 +38,7 @@
   venue: ACM CSCW 2023.
   pdf: "Ming-2023-CSCW_Invisible-Work-HHAs.pdf"
   online: https://dl.acm.org/doi/10.1145/3579492
+- year: 2022
 - title: "Burnout and the Quantified Workplace: Tensions around Personal Sensing Interventions for Stress in Resident Physicians"
   authors: "Dan Adler*, <b>Emily Tseng*</b>, Khatiya C. Moon, John Q. Young, John M. Kane, David C. Mohr, Emmanuel Moss, Tanzeem Choudhury"
   venue: ACM CSCW 2022.
@@ -42,7 +47,7 @@
 - title: Care Infrastructures for Digital Security and Privacy in Intimate Partner Violence
   authors: "<b>Emily Tseng</b>, Mehrnaz Sabet, Rosanna Bellini, Harkiran Kaur Sodhi, Thomas Ristenpart, and Nicola Dell."
   venue: ACM CHI 2022.
-  award: Best Paper Award
+  award: 🏆 Best Paper Award (top 1%)
   pdf: "Tseng-2022-CHI-Care-Infrastructures-Digital-Privacy-IPV.pdf"
   online: https://dl.acm.org/doi/10.1145/3491102.3502038
   video: https://youtu.be/Fbj6qRNWeSY
@@ -51,6 +56,7 @@
   venue: ACM CHI 2022.
   pdf: "Chen-2022-CHI_Trauma-Informed-Computing.pdf"
   online: https://dl.acm.org/doi/10.1145/3491102.3517475
+- year: 2021
 - title: "Subtle CSCW Traits: Tensions Around Identity Formation and Online Activism in the Asian Diaspora"
   authors: "Calvin Liang, <b>Emily Tseng</b>, Sachin Pendse, Crystal Lee, Kimberley Allison, Neilly H. Tan, Ruotong Wang, Alexandra To, and Amy Zhang."
   venue: ACM CSCW 2021 Workshops.
@@ -64,12 +70,13 @@
   pdf: "Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf"
   online: https://dl.acm.org/doi/abs/10.1145/3411764.3445589
   video: https://www.youtube.com/watch?v=VDNApFCXV4U&ab_channel=ACMSIGCHI
+- year: 2020
 - title: "So-called privacy breeds evil: Narrative Justifications for Intimate Partner Surveillance in Online Forums."
   authors: Rosanna Bellini, <b>Emily Tseng</b>, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Thomas Ristenpart, and Nicola Dell.
   venue: ACM CSCW 2021.
   desc: "We develop a theory of how would-be abusers create narrative justifications for spying on their partners."
   pdf: "Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf"
-  award: Best Paper Award
+  award: 🏆 Best Paper Award (top 1%)
   online: https://dl.acm.org/doi/10.1145/3432909
 - title: "The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums"
   authors: <b>Emily Tseng</b>, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell, and Thomas Ristenpart.
@@ -78,43 +85,51 @@
   desc: "Would-be abusers often learn how to enact intimate partner surveillance through online forums. We taxonomize  the tools and tactics propagated through these online communities, and discuss how social media dynamics worsen these attacks."
   online: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
   video: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
-  award: Distinguished Paper Award. Internet Defense Prize, 3rd place.
+  award: 🏆 Distinguished Paper Award (top 1%) and Internet Defense Prize, 3rd place ($40k).
+  label: P
 - title: "Experiences of Home Health Care Workers during COVID-19 in New York City: A Qualitative Analysis"
   authors: Sterling, MR, <b>Tseng, E</b>, Poon, A, Cho, J, Avgar, AC, Kern, LM, Ankuda, CK, Dell, N.
   pdf: Sterling-2020_JAMAIM_Home-Care-Workers-NYC-COVID.pdf
   online: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2769096
   venue: JAMA Internal Medicine
   desc: We interviewed home health aides caring for patients in New York City when the COVID-19 pandemic peaked in the spring of 2020.
+  label: J3
 - title: "Home Care Workers Caring for Adults with Heart Failure Need Better Access to Training and Technology: A Role for Implementation Science."
   authors: Sterling, MR, Dell, N, <b>Tseng, E</b>, Okeke, F, Cho, J, Piantella, B, Tobin, JN.
   online: https://doi.org/10.1017/cts.2020.36
   pdf: Sterling-2020_JClinTrans_Home-Care-Workers-Implementation-Science.pdf
   venue: Journal of Clinical and Translation Science
+  label: J2
 - title: "Understanding the Workflow of Home Healthcare for Patients with Heart Failure: Challenges and Opportunities."
   authors: Sterling, M. R., Dell, N., Piantella, B., Cho, J., Kaur, H., <b>Tseng, E.</b>, Okeke, F., Brown, M., Leung, P. B. K., Silva, A. F., Shaw, A. L., Kern, L. M.
   pdf: Sterling-2020-JGIM_Understanding-the-Workflow-of-Home-Health-Care.pdf
   venue: Journal of General Internal Medicine
   online: https://link.springer.com/article/10.1007/s11606-020-05675-8
+  label: J1
 - title: "We can learn. Why not?: Designing Technologies to Engender Equity for Home Health Aides."
   authors: <b>Emily Tseng</b>, Fabian Okeke, Madeline Sterling, and Nicola Dell
   pdf: Tseng-2020-CHI_Designing-to-Engender-Equity-for-Home-Health-Aides.pdf
   online: https://dl.acm.org/doi/abs/10.1145/3313831.3376633
   venue: ACM CHI 2020. (Acceptance rate 24.3%).
+  label: P3
+- year: 2019
 - title: "Is my phone hacked?: Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence."
   authors: Diana Freed*, Sam Havron*, <b>Emily Tseng</b>, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell.
   venue: CSCW 2019
-  award: Best Paper Honorable Mention
+  award: 🏆 Best Paper Honorable Mention (top 5%)
   pdf: Freed-2019-CSCW_Is-my-phone-hacked.pdf
   online: https://dl.acm.org/doi/abs/10.1145/3359304
+  label: P2
 - title: "Technology, Home Health Care, and Heart Failure: A Qualitative Analysis with Multiple Stakeholders."
   authors: Fabian Okeke, <b>Emily Tseng</b>, Benedetta Piantella, Mikaela Brown, Harveen Kaur, Madeline R. Sterling, and Nicola Dell.
   pdf: Okeke-2019_COMPASS_Technology-Home-Health-Care.pdf
   venue: ACM COMPASS 2019.
   online: https://dl.acm.org/doi/10.1145/3314344.3332487
+  label: P1
+- year: 2018
 - title: "A combined rule-based and statistical approach to family history extraction from unstructured text."
   authors: <b>Emily Tseng</b> and Jacob Lee.
   pdf: Tseng-Lee-2018-OHNLP.pdf
   venue: BioCreative/OHNLP Workshop @ ACM BCB 2018
   online: https://sites.google.com/view/ohnlp2018/home
-
-
+  label: W1

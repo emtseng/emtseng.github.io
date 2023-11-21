@@ -12,8 +12,11 @@ title: Publications
 
 <div id="pub-table">
   {%- for pub in site.data.publications -%}
+  {%- if pub.year -%}
+  <h2>{{ pub.year }}</h2>
+  {%- else -%}
   <div class="pub-row">
-    <div class="pub-ref">[ {{ forloop.index }} ]</div>
+    <!-- <div class="pub-ref">[ {{ pub.label }} ]</div> -->
     <div class="pub-info">
       <div class="pub-title">
         {%- if pub.pdf -%}<a href="assets/{{ pub.pdf }}" target="_blank">{{ pub.title }}</a>{%- else -%}{{
@@ -32,5 +35,6 @@ title: Publications
       </div>
     </div>
   </div>
+  {%- endif -%}
   {%- endfor -%}
 </div>
