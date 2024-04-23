@@ -29,6 +29,7 @@ github_username:  emtseng
 header_pages:
   - publications.html
   - blog.html
+  - defense.html
 
 # Build settings
 theme: minima
