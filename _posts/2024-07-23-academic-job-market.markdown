@@ -20,8 +20,8 @@ Index:
 
 Buyer beware: I oriented my statements for the job market in CS, Information, and Engineering. This resulted in 6 offers for TT jobs at R1 U.S. universities, including departments of computer science and electrical and computer engineering, and interdisciplinary departments like information science and my future home at HCDE.
 
-- [Research Statement](../assets/EmilyTseng_ResearchStatement_2024.pdf)
-- [Teaching Statement](../assets/EmilyTseng_TeachingStatement_2024.pdf)
+- [Research Statement](/assets/EmilyTseng_ResearchStatement_2024.pdf)
+- [Teaching Statement](/assets/EmilyTseng_TeachingStatement_2024.pdf)
 
 I'm feeling a little sensitive about my diversity statement at the moment. If you and I have connected before, I'd probably email it to you, but for now I'm going to keep it off the public Internet.
 
