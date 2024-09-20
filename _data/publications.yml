@@ -1,10 +1,18 @@
+- year: 2025
+- title: "Mitigating Trauma in Qualitative Research Infrastructure: Roles for Machine Assistance and Trauma-Informed Design"
+  authors: "<b>Emily Tseng</b>, Thomas Ristenpart, and Nicola Dell."
+  venue: To appear at ACM CSCW 2025.
 - year: 2024
-- title: "The Human Factor in AI Red Teaming: Perspectives from Social
-and Collaborative Computing"
-  authors: "Alice Qian Zhang, Ryland Shaw, Jacy Reese Anthis, Ashlee Milton, <b>Emily Tseng</b>, Jina Suh, Lama Ahmad, Rama Shankar Siva Kumar, Julian Posada, Benjamin Shestakofsky, Sarah T. Roberts, Mary L. Gray"
-  venue: ACM CSCW Workshops 2024
+- title: "The Human Factor in AI Red Teaming: Perspectives from Social and Collaborative Computing"
+  authors: "Alice Qian Zhang, Ryland Shaw, Jacy Reese Anthis, Ashlee Milton, <b>Emily Tseng</b>, Jina Suh, Lama Ahmad, Rama Shankar Siva Kumar, Julian Posada, Benjamin Shestakofsky, Sarah T. Roberts, and Mary L. Gray."
+  venue: To appear at ACM CSCW Workshops 2024.
   pdf: "Zhang-2024-CSCW_AI-Red-Teaming.pdf"
   online: https://arxiv.org/abs/2407.07786
+  website: https://sites.google.com/view/thehumanfactorinairedteaming/
+- title: "Caring for Reproductive Justice: Design in Response to Adversity"
+  authors: "Benedetta Lusi, Adrian Petterson, Kamala Payyapilly Thiruvenkatanathan, Michaela Krawczyk, <b>Emily Tseng</b>, Lara Reime, Madeline Balaam, Katie A. Siek, and Cristina Zaga."
+  venue: To appear at ACM CSCW Workshops 2024.
+  website: https://sites.google.com/view/cscw24-repro-justice/organizers?authuser=0
 - title: "Participation in the Age of Foundation Models"
   authors: "Harini Suresh*, <b>Emily Tseng*</b>, Meg Young*, Mary L. Gray, Emma Pierson, and Karen Levy."
   venue: ACM FAccT 2024.
@@ -12,7 +20,7 @@ and Collaborative Computing"
   online: https://doi.org/10.1145/3630106.3658992
 - title: "Data Stewardship in Clinical Computer Security: Balancing Burden and Benefit in Participatory Systems"
   authors: "<b>Emily Tseng</b>, Rosanna Bellini, Yeuk Yu Lee, Alana Ramjit, Thomas Ristenpart, and Nicola Dell."
-  venue: To appear at ACM CSCW 2024.
+  venue: ACM CSCW 2024.
   pdf: "Tseng-2024-CSCW-Data-Stewardship-Digital-Safety_author-version.pdf"
   online: https://doi.acm.org/?doi=3637316
   label: P1
