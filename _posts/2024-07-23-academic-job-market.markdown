@@ -14,6 +14,7 @@ This was a monumental effort, from myself and from my advisors, mentors, friends
 
 Index:
 - [My materials](#my-materials)
+- [Other resources I liked](#resources-i-liked)
 <!-- - [How the process went for me](#my-outcomes) -->
 
 ## My materials
