@@ -1,9 +1,11 @@
 - year: 2025
 - title: "Ownership, Not Just Happy Talk: Co-Designing a Participatory Large Language Model for Journalism"
   authors: "<b>Emily Tseng</b>*, Meg Young*, Marianne Aubin Le Qu&eacute;r&eacute;, Aimee Rinehart, and Harini Suresh."
-  venue: To appear at ACM FAccT 2025.
-  online: https://arxiv.org/abs/2501.17299
+  venue: ACM FAccT 2025.
+  arxiv: https://arxiv.org/abs/2501.17299
+  online: https://dl.acm.org/doi/10.1145/3715275.3732198
   pdf: "Tseng-Young-2025_Ownership-Journalism-LLM_author-DRAFT.pdf"
+  slides: https://docs.google.com/presentation/d/196YXb52y3kqnDAwf5CzOgDsSyU5S1xaiPMWxGtv9pWs/edit?slide=id.g3625bc760db_3_6#slide=id.g3625bc760db_3_6
 - title: "Mitigating Trauma in Qualitative Research Infrastructure: Roles for Machine Assistance and Trauma-Informed Design"
   authors: "<b>Emily Tseng</b>, Thomas Ristenpart, and Nicola Dell."
   venue: To appear at ACM CSCW 2025.
