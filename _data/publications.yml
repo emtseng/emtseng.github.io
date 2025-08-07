@@ -6,17 +6,20 @@
   online: https://dl.acm.org/doi/10.1145/3715275.3732198
   pdf: "Tseng-Young-2025_Ownership-Journalism-LLM_author-DRAFT.pdf"
   slides: https://docs.google.com/presentation/d/196YXb52y3kqnDAwf5CzOgDsSyU5S1xaiPMWxGtv9pWs/edit?slide=id.g3625bc760db_3_6#slide=id.g3625bc760db_3_6
+  desc: Participatory approaches to language technologies could help journalists reap the benefits of AI, rather than being exploited by the AI industry. Through co-design, we develop specifications for the social and technical innovations required to make journalist-controlled LLMs a reality. 
 - title: "Mitigating Trauma in Qualitative Research Infrastructure: Roles for Machine Assistance and Trauma-Informed Design"
   authors: "<b>Emily Tseng</b>, Thomas Ristenpart, and Nicola Dell."
   venue: To appear at ACM CSCW 2025.
   online: https://dl.acm.org/doi/10.1145/3711035
   pdf: "Tseng-2025-CSCW_Mitigating-Trauma-Qual-AI_author-preprint.pdf"
+  desc: Digital-safety research requires us to think deeply about difficult subjects, like hate and harassment, violence and war, abuse and tragedy. We explore how language technologies might help digital-safety researchers mitigate the secondary traumas possible in this work, and propose a set of design principles for trauma-informed qualitative research infrastructure more broadly.
 - title: "Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Metareview"
   authors: "Rock Y. Pang, Hope Schroeder, Kynnedy S. Smith, Solon Barocas, Ziang Xiao, <b>Emily Tseng</b>, and Danielle Bragg."
   venue: ACM CHI 2025.
   online: https://dl.acm.org/doi/10.1145/3706598.3713726
   pdf: "Pang-2025-CHI_LLMs-at-CHI_author-preprint.pdf"
   repo: https://llm-ification.github.io/
+  desc: Our systematic review examines how ACM CHI has taken up LLMs, and proposes a set of guidelines for how HCI researchers can responsibly engage with these tools in our work.
 - title: "Sociotechnical AI Governance"
   authors: "Kevin J. Feng*, Rock Y. Pang*, Tzu-Sheng Kuo, Amy Winecoff, <b>Emily Tseng</b>, David Gray Widder, Harini Suresh, Katharina Reinecke, and Amy X. Zhang."
   venue: ACM CHI Workshops 2025.
