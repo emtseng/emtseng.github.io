@@ -182,6 +182,14 @@ body {
   height: 100%;
 }
 
+#prospective-students {
+  border: 1px solid black;
+  width: 100%;
+  padding: 1em;
+  background-color: rgb(51,0,111);
+  color: white;
+}
+
 /* Responsive */
 @media screen and (max-width: 600px) {
   #header {

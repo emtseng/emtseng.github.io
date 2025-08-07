@@ -257,6 +257,8 @@ body { font-family: Lato; line-height: normal; }
 
 .responsive-iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
+#prospective-students { border: 1px solid black; width: 100%; padding: 1em; background-color: #33006f; color: white; }
+
 /* Responsive */
 @media screen and (max-width: 600px) { #header { flex-direction: column; align-items: center; justify-content: center; }
   #tabs { width: 100%; display: inline-flex; flex-direction: row; justify-content: space-around; align-items: center; }
