@@ -1,0 +1,27 @@
+- section: "Selected Invited Talks"
+- title: "Participation, Trauma, and Privacy in Studying Digital Safety"
+  venue: "KTH Royal Institute of Technology, Stockholm, Sweden"
+  when: "May 2025"
+  youtube: https://www.youtube.com/watch?v=dMk4peCw7QA&ab_channel=DigitalFutures%3AResearchHubforDigitalization
+  yt_embed: https://www.youtube.com/embed/dMk4peCw7QA?si=UhrlxjGagn2P3W8R
+  desc: "Keynote address for the Digital Futures workshop on femtech and feminist design."
+  link: https://www.kth.se/femtech/calendar/seminars/participation-trauma-and-privacy-in-studying-digital-safety-1.1403250?date=2025-05-27&orgdate=2025-05-15&length=1&orglength=0
+
+- title: "Digital Safety and Security for Survivors of Technology-Mediated Harms"
+  venue: "Princeton University, Center for Information Technology Policy"
+  when: "April 2024"
+  link: https://princeton.zoom.us/rec/play/fABZxMzSzYt9Uv8gAAu-_1Faavioh-X_xnfvodBzgHyASNfrft_2gV-BiR6Yu8kDP0chqp4Sm_Hj_yMQ.lsMsenlGaZDZPOcJ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fprinceton.zoom.us%2Frec%2Fshare%2Fxn1DRFOKJhkXuwZKcOLSD_Gp_o-CYoVSdsgX2XvZkIMt9gOchkYC98PscQgIaW1X.OrWWAMlHN20MSCmw
+
+- section: "Selected Conference Talks"
+- title: "Care Infrastructures for Digital Security in Intimate Partner Violence"
+  venue: ACM CHI
+  when: "May 2022"
+  yt_embed: https://www.youtube.com/embed/Fbj6qRNWeSY?si=YQAQmeLWNwtqAzIy
+  slides: https://docs.google.com/presentation/d/1OGYto76OWMf3RT4iTgmD1RhXInSn5G0GKYzsSAP2xqk/edit?slide=id.p1#slide=id.p1
+- title: "The Tools and Tactics of Intimate Partner Surveillance"
+  venue: USENIX Security
+  when: "Sept. 2020"
+  yt_embed: https://www.youtube.com/embed/ORrkJ3HhJG0?si=cfFUUR5bRssfnE6y
+  youtube: https://www.youtube.com/watch?v=ORrkJ3HhJG0&ab_channel=USENIX
+  slides: https://docs.google.com/presentation/d/1kI5R3V6C4vsygQAxgstowFojqZQ-xksIpgpAnE2GpY0/edit?slide=id.p1#slide=id.p1
+  desc: "My first-ever academic conference talk!"

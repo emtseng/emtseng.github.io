@@ -245,6 +245,18 @@ body { font-family: Lato; line-height: normal; }
 
 .news-txt { width: 80%; }
 
+#talk-table { margin-top: 1em; }
+
+.talk-row { display: inline-flex; flex-direction: column; align-items: top; margin-bottom: 1em; width: 100%; }
+
+.talk-section { margin-top: 1em; }
+
+.talk-links { display: inline-flex; flex-direction: row; margin-bottom: 1em; }
+
+.yt-embed-container { position: relative; overflow: hidden; width: 100%; padding-bottom: 56.25%; /* 16:9 aspect ratio */ }
+
+.responsive-iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
 /* Responsive */
 @media screen and (max-width: 600px) { #header { flex-direction: column; align-items: center; justify-content: center; }
   #tabs { width: 100%; display: inline-flex; flex-direction: row; justify-content: space-around; align-items: center; }

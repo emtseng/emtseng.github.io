@@ -1,0 +1,34 @@
+---
+layout: home
+title: Talks
+---
+
+<div id="subhead">I try to index my public talks here. Videos and slides are linked where available. <br />I'm always open to speaking inquiries---please feel free to reach out.</div>
+
+<div id="talk-table">
+    {%- for talk in site.data.talks -%}
+        {%- if talk.section -%}<h2 class="talk-section">{{ talk.section }}</h2>{%- else -%}
+        <div class="talk-row">
+            <div class="talk-title">
+            {%- if talk.link -%}<a href="{{ talk.link }}" target="_blank">{{ talk.title }}</a>{%- else -%}{{
+            talk.title }}{%- endif -%}
+            </div>
+            <div class="talk-when">{{ talk.when }}, {{ talk.venue }}</div>
+            {%- if talk.desc -%}<div class="talk-desc"><i>{{ talk.desc }}</i></div> {%- endif -%}
+            <div class="talk-links">
+                {%- if talk.link -%}[ <a href="{{talk.link}}" target="_blank">website</a> ] {%- endif -%}
+                {%- if talk.slides -%}[ <a href="{{talk.slides}}" target="_blank">slides</a> ] {%- endif -%}
+            </div>
+            {%- if talk.yt_embed -%}
+            <div class="yt-embed-container">
+                <iframe class="responsive-iframe"
+                src="{{ talk.yt_embed }}" title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+            {%- endif -%}
+        
+        </div>
+        {%- endif -%}
+    {%- endfor -%}
+</div>
