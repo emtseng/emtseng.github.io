@@ -27,7 +27,16 @@ title: Talks
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             {%- endif -%}
-        
+            {%- if talk.iframe_embed -%}
+            <div class="iframe-embed-container">
+                <iframe class="responsive-iframe"
+                src="{{ talk.iframe_embed }}" 
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen></iframe>
+            </div>
+            {%- endif -%}
         </div>
         {%- endif -%}
     {%- endfor -%}
