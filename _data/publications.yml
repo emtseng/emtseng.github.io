@@ -12,6 +12,7 @@
   venue: To appear at ACM CSCW 2025.
   online: https://dl.acm.org/doi/10.1145/3711035
   pdf: "Tseng-2025-CSCW_Mitigating-Trauma-Qual-AI_author-preprint.pdf"
+  award: 🏆 Impact Recognition
   desc: Digital-safety research requires us to think deeply about difficult subjects, like hate and harassment, violence and war, abuse and tragedy. We explore how language technologies might help digital-safety researchers mitigate the secondary traumas possible in this work, and propose a set of design principles for trauma-informed qualitative research infrastructure more broadly.
 - title: "Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Metareview"
   authors: "Rock Y. Pang, Hope Schroeder, Kynnedy S. Smith, Solon Barocas, Ziang Xiao, <b>Emily Tseng</b>, and Danielle Bragg."
