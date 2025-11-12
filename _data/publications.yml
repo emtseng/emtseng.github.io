@@ -26,20 +26,25 @@
   venue: ACM CHI Workshops 2025.
   website: https://chi-staig.github.io/
   online: https://dl.acm.org/doi/10.1145/3706599.3706747
-  pdf:
   pdf: "Feng-Pang-2025-CHI-Workshops_Sociotechnical-AI-Governance.pdf"
 - title: "Designing Support For Systematic Sociotechnical Risk Literacy"
   authors: "Ashley Walker, Renee Shelby, Ari Schlesinger, <b>Emily Tseng</b>, Mark Diaz, Andy Ricci, and Angela D.R. Smith."
   venue: Accepted workshop for the Aarhus Decennial 2025.
   website: https://sites.google.com/view/systemicriskliteracy/home
+  online: https://dl.acm.org/doi/10.1145/3737609.3747101
+  pdf: "Walker-2025-Aarhus_Systematic-Sociotechnical-Risk-Literacy.pdf"
 - title: "Towards a Systemic Risk Literacy for Tech-Facilitated Gender-Based Violence"
   authors: "Ashley Walker, Renee Shelby, Rosanna Bellini, Amelia Hassoun, <b>Emily Tseng</b>"
   venue: Accepted workshop for ACM CSCW 2025.
   website: https://sites.google.com/nyu.edu/risk/home
+  online: https://dl.acm.org/doi/10.1145/3715070.3748298
+  pdf: "Walker-2025-CSCW-Workshop_Systemic-Risk-Literacy-TFGBV.pdf"
 - title: "Reflexivity & Reflection (R&R) for Sociotechnical Safety: Creating Space for Collective Learning"
   authors: "Jessica McClearn, Lucy Qin, Miranda Wei, <b>Emily Tseng</b>"  
   venue: Accepted workshop for ACM CSCW 2025.
   website: https://sites.google.com/view/reflexivity-cscw25/home
+  online: https://dl.acm.org/doi/full/10.1145/3715070.3748292
+  pdf: "McClearn-2025-CSCW-Workshop_Reflexivity-Sociotechnical-Safety.pdf"
 - year: 2024
 - title: "The Human Factor in AI Red Teaming: Perspectives from Social and Collaborative Computing"
   authors: "Alice Qian Zhang, Ryland Shaw, Jacy Reese Anthis, Ashlee Milton, <b>Emily Tseng</b>, Jina Suh, Lama Ahmad, Rama Shankar Siva Kumar, Julian Posada, Benjamin Shestakofsky, Sarah T. Roberts, and Mary L. Gray."
