@@ -45,6 +45,12 @@
   website: https://sites.google.com/view/reflexivity-cscw25/home
   online: https://dl.acm.org/doi/full/10.1145/3715070.3748292
   pdf: "McClearn-2025-CSCW-Workshop_Reflexivity-Sociotechnical-Safety.pdf"
+- title: "CCC Visioning Workshop Report: Supporting At-Risk Users through Responsible Computing"
+  authors: "Butler, K., Consolvo, S., Siek, K., Toscos, T., Wiseniewski, P., Griﬃn, H., Andalibi, N., Arriaga, R., Chaudhry, B., De Choudhury, M., Epstein, J., Haimson, O., Heung, S., Ibrahim, Z., Kelley, P., Khovanskaya, V., Martin-Hammond, A., McClearn, J., Motti, V., Okolo, C., Pater, J., Pratt, W., Saubestre, S., Silenzio, V., Thakur, D., To, A., Toscos, T., <b>Tseng, E.</b>, Umbach, R."
+  venue: Computing Community Consortium (CCC) of the Computing Research Association (CRA)
+  online: https://cccblog.org/2025/11/13/advancing-responsible-computing-ccc-visioning-workshop-report-on-at-risk-technology-users/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=cccblog
+  pdf: "Supporting-At-Risk-Users-Through-Responsible-Computing.pdf"
+  desc: "The CCC Workshop on Supporting At-Risk Users convened 49 researchers and practitioners from academia, industry, and civil society who work directly on issues such as cyberstalking, online harassment, digital exploitation, and related technology-enabled risks. Our discussions focused on articulating the frameworks, methodological gaps, and structural challenges that must be addressed to build a more rigorous and coordinated research agenda in this space. The report presents a detailed research roadmap for advancing responsible computing practices that better protect individuals who face heightened exposure to technology-facilitated harm."
 - year: 2024
 - title: "The Human Factor in AI Red Teaming: Perspectives from Social and Collaborative Computing"
   authors: "Alice Qian Zhang, Ryland Shaw, Jacy Reese Anthis, Ashlee Milton, <b>Emily Tseng</b>, Jina Suh, Lama Ahmad, Rama Shankar Siva Kumar, Julian Posada, Benjamin Shestakofsky, Sarah T. Roberts, and Mary L. Gray."
