@@ -1,3 +1,10 @@
+- year: 2026
+- title: "``Chat, Should I Leave Him?'': Risks, Rewards, and Roles for AI in Relationship Advice"
+  authors: "<b>Emily Tseng</b> and Calvin Liang."
+  venue: Accepted to ACM CHI 2026.
+- title: "Reimagining Participatory Agile Development in Community-Industry Partnerships"
+  authors: "Calvin Liang</b>, <b>Emily Tseng</b>, Elizabeth Fetterolf, and Mary L. Gray"
+  venue: Accepted to ACM CHI 2026.
 - year: 2025
 - title: "Ownership, Not Just Happy Talk: Co-Designing a Participatory Large Language Model for Journalism"
   authors: "<b>Emily Tseng</b>*, Meg Young*, Marianne Aubin Le Qu&eacute;r&eacute;, Aimee Rinehart, and Harini Suresh."
@@ -9,7 +16,7 @@
   desc: Participatory approaches to language technologies could help journalists reap the benefits of AI, rather than being exploited by the AI industry. Through co-design, we develop specifications for the social and technical innovations required to make journalist-controlled LLMs a reality. 
 - title: "Mitigating Trauma in Qualitative Research Infrastructure: Roles for Machine Assistance and Trauma-Informed Design"
   authors: "<b>Emily Tseng</b>, Thomas Ristenpart, and Nicola Dell."
-  venue: To appear at ACM CSCW 2025.
+  venue: ACM CSCW 2025.
   online: https://dl.acm.org/doi/10.1145/3711035
   pdf: "Tseng-2025-CSCW_Mitigating-Trauma-Qual-AI_author-preprint.pdf"
   award: 🏆 Impact Recognition
@@ -29,19 +36,19 @@
   pdf: "Feng-Pang-2025-CHI-Workshops_Sociotechnical-AI-Governance.pdf"
 - title: "Designing Support For Systematic Sociotechnical Risk Literacy"
   authors: "Ashley Walker, Renee Shelby, Ari Schlesinger, <b>Emily Tseng</b>, Mark Diaz, Andy Ricci, and Angela D.R. Smith."
-  venue: Accepted workshop for the Aarhus Decennial 2025.
+  venue: Aarhus Decennial Workshops 2025.
   website: https://sites.google.com/view/systemicriskliteracy/home
   online: https://dl.acm.org/doi/10.1145/3737609.3747101
   pdf: "Walker-2025-Aarhus_Systematic-Sociotechnical-Risk-Literacy.pdf"
 - title: "Towards a Systemic Risk Literacy for Tech-Facilitated Gender-Based Violence"
   authors: "Ashley Walker, Renee Shelby, Rosanna Bellini, Amelia Hassoun, <b>Emily Tseng</b>"
-  venue: Accepted workshop for ACM CSCW 2025.
+  venue: ACM CSCW Workshops 2025.
   website: https://sites.google.com/nyu.edu/risk/home
   online: https://dl.acm.org/doi/10.1145/3715070.3748298
   pdf: "Walker-2025-CSCW-Workshop_Systemic-Risk-Literacy-TFGBV.pdf"
 - title: "Reflexivity & Reflection (R&R) for Sociotechnical Safety: Creating Space for Collective Learning"
   authors: "Jessica McClearn, Lucy Qin, Miranda Wei, <b>Emily Tseng</b>"  
-  venue: Accepted workshop for ACM CSCW 2025.
+  venue: ACM CSCW Workshops 2025.
   website: https://sites.google.com/view/reflexivity-cscw25/home
   online: https://dl.acm.org/doi/full/10.1145/3715070.3748292
   pdf: "McClearn-2025-CSCW-Workshop_Reflexivity-Sociotechnical-Safety.pdf"
