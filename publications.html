@@ -11,7 +11,38 @@ title: Publications
 </div>
 
 <div id="pub-table">
-  {%- for pub in site.data.publications -%}
+  <h1>Papers</h1>
+  {%- for pub in site.data.papers -%}
+  {%- if pub.year -%}
+  <h2>{{ pub.year }}</h2>
+  {%- else -%}
+  <div class="pub-row">
+    <!-- <div class="pub-ref">[ {{ pub.label }} ]</div> -->
+    <div class="pub-info">
+      <div class="pub-title">
+        {%- if pub.pdf -%}<a href="assets/{{ pub.pdf }}" target="_blank">{{ pub.title }}</a>{%- else -%}{{
+        pub.title
+        }}{%- endif -%}
+      </div>
+      <div class="pub-authors">{{ pub.authors }}</div>
+      <div class="pub-venue">{{ pub.venue }}</div>
+      {%- if pub.award -%}<div class="pub-award">{{pub.award}}</div>{%- endif -%}
+      {% if pub.desc -%}<div class="pub-desc">{{ pub.desc }}</div> {%- endif -%}
+      <div class="pub-links">
+        {%- if pub.pdf -%}[ <a href="assets/{{ pub.pdf }}" target="_blank">pdf</a> ]{%- endif -%}
+        {%- if pub.online -%}[ <a href="{{ pub.online }}" target="_blank">online</a> ]{%- endif -%}
+        {%- if pub.pubmed -%}[ <a href="{{ pub.pubmed }}" target="_blank">pubmed</a> ]{%- endif -%}
+        {%- if pub.video -%}[ <a href="{{ pub.video }}" target="_blank">video</a> ]{%- endif -%}
+        {%- if pub.website -%}[ <a href="{{ pub.website }}" target="_blank">website</a> ]{%- endif -%}
+        {%- if pub.repo -%}[ <a href="{{ pub.repo }}" target="_blank">repo</a> ]{%- endif -%}
+        {%- if pub.slides -%}[ <a href="{{ pub.slides }}" target="_blank">slides</a> ]{%- endif -%}
+      </div>
+    </div>
+  </div>
+  {%- endif -%}
+  {%- endfor -%}
+  <h1>Workshops</h1>
+  {%- for pub in site.data.workshops -%}
   {%- if pub.year -%}
   <h2>{{ pub.year }}</h2>
   {%- else -%}
