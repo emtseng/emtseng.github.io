@@ -1,12 +1,14 @@
 - year: 2026
 - title: "``Chat, Should I Leave Him?'': Risks, Rewards, and Roles for AI in Relationship Advice"
   authors: "<b>Emily Tseng</b> and Calvin A. Liang."
-  venue: Accepted to ACM CHI 2026.
+  venue: ACM CHI 2026.
   pdf: "Tseng-Liang-2026-CHI_AI-relationship-advice_author.pdf"
+  online: https://doi.org/10.1145/3772318.3790739
 - title: "Reimagining Participatory Agile Development in Community-Industry Partnerships"
   authors: "Calvin A. Liang*, <b>Emily Tseng*</b>, Elizabeth Fetterolf, and Mary L. Gray"
-  venue: Accepted to ACM CHI 2026.
+  venue: ACM CHI 2026.
   pdf: "Liang-Tseng-2026-CHI_Reimagining_author.pdf"
+  online: https://dl.acm.org/doi/10.1145/3772318.3791312
 - title: "Orienting Participatory AI for Frontline Care Work: A Conceptual Framework for Technologists"
   authors: "Joy C. Ming, Ian R. Solano-Kamaiko, and <b>Emily Tseng</b>"
   venue: Accepted to ACM CSCW 2026.
@@ -100,13 +102,6 @@
   online: https://dl.acm.org/doi/abs/10.1145/3411764.3445589
   video: https://www.youtube.com/watch?v=VDNApFCXV4U&ab_channel=ACMSIGCHI
 - year: 2020
-- title: "So-called privacy breeds evil: Narrative Justifications for Intimate Partner Surveillance in Online Forums."
-  authors: Rosanna Bellini, <b>Emily Tseng</b>, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Thomas Ristenpart, and Nicola Dell.
-  venue: ACM CSCW 2021.
-  desc: "We develop a theory of how would-be abusers create narrative justifications for spying on their partners."
-  pdf: "Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf"
-  award: 🏆 Best Paper Award (top 1%)
-  online: https://dl.acm.org/doi/10.1145/3432909
 - title: "The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums"
   authors: <b>Emily Tseng</b>, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell, and Thomas Ristenpart.
   pdf: Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf
@@ -116,6 +111,13 @@
   video: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
   award: 🏆 Distinguished Paper Award (top 1%) and Internet Defense Prize, 3rd place ($40k).
   label: P
+- title: "So-called privacy breeds evil: Narrative Justifications for Intimate Partner Surveillance in Online Forums."
+  authors: Rosanna Bellini, <b>Emily Tseng</b>, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Thomas Ristenpart, and Nicola Dell.
+  venue: ACM CSCW 2021.
+  desc: "We develop a theory of how would-be abusers create narrative justifications for spying on their partners."
+  pdf: "Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf"
+  award: 🏆 Best Paper Award (top 1%)
+  online: https://dl.acm.org/doi/10.1145/3432909
 - title: "Experiences of Home Health Care Workers during COVID-19 in New York City: A Qualitative Analysis"
   authors: Sterling, MR, <b>Tseng, E</b>, Poon, A, Cho, J, Avgar, AC, Kern, LM, Ankuda, CK, Dell, N.
   pdf: Sterling-2020_JAMAIM_Home-Care-Workers-NYC-COVID.pdf
