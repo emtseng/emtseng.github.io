@@ -30,6 +30,7 @@ header_pages:
   - publications.html
   - blog.html
   - talks.html
+  - lab.html
   # - defense.html
 
 # Build settings
