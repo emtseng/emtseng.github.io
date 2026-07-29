@@ -4,6 +4,11 @@
   venue: ACM CHI 2026.
   pdf: "Tseng-Liang-2026-CHI_AI-relationship-advice_author.pdf"
   online: https://doi.org/10.1145/3772318.3790739
+- title: "Psychological Influences of Conversational AI: Research and Design Directions for Reducing Harm and Promoting Well-Being"
+  authors: "Jina Suh*, Mihaela Vorvoreanu*, Forough Poursabzi-Sangdeh*, <b>Emily Tseng</b>, Eugenia Kim, Luke Nicholls, James W. Pennebaker, and Eric Horvitz."
+  venue: White paper 
+  pdf: "Suh-2026-whitepaper_psychosocial-AI.pdf"
+  arxiv: https://arxiv.org/abs/2607.25057
 - title: "Reimagining Participatory Agile Development in Community-Industry Partnerships"
   authors: "Calvin A. Liang*, <b>Emily Tseng*</b>, Elizabeth Fetterolf, and Mary L. Gray"
   venue: ACM CHI 2026.
